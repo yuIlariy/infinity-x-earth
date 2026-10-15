@@ -2,6 +2,6 @@
 
 Unofficial Project Infinity-X Android 17 ROM for Redmi 12C (earth).
 
-Build date: 14 October 2026
+Initial Build date: 14 October 2026
 
 GApps included.
